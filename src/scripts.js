@@ -1,9 +1,9 @@
 "use strict";
 const isLocal = window.location.hostname === "127.0.0.1" ||
     window.location.hostname === "localhost";
-const apiBase = isLocal
-    ? "http://localhost:7071/api"
-    : "/api"; // Static Web Apps automatically routes this to Azure Functions
+const apiBase = isLocal ?
+    "http://localhost:7071/api" :
+    "/api"; // Static Web Apps automatically routes this to Azure Functions
 async function getData(url, destinationdiv) {
     var el = document.getElementById(destinationdiv);
     if (el !== null) {

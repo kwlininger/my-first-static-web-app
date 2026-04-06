@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\kwlin\\source\\repos\\my-first-static-web-app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kwlin\\source\\repos\\my-first-static-web-app\\api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kwlin\\source\\repos\\my-first-static-web-app\\src\\scripts.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\scripts.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
@@ -39,25 +35,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\kwlin\\source\\repos\\my-first-static-web-app\\api\\.gitignore",
-              "RelativeDocumentMoniker": "api\\.gitignore",
-              "ToolTip": "C:\\Users\\kwlin\\source\\repos\\my-first-static-web-app\\api\\.gitignore",
-              "RelativeToolTip": "api\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-06T02:20:02.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "scripts.ts",
               "DocumentMoniker": "C:\\Users\\kwlin\\source\\repos\\my-first-static-web-app\\src\\scripts.ts",
               "RelativeDocumentMoniker": "src\\scripts.ts",
               "ToolTip": "C:\\Users\\kwlin\\source\\repos\\my-first-static-web-app\\src\\scripts.ts",
               "RelativeToolTip": "src\\scripts.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-04-05T00:22:06.62Z",
               "EditorCaption": ""
